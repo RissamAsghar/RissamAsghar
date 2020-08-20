@@ -6,7 +6,10 @@
 
 - 📫 You can benefit from my services at [Fiverr](https://www.fiverr.com/share/9dKgod)
 
+### Get In Touch
 
+- [Facebook](https://www.facebook.com/rissam10)
+- [Twitter](https://twitter.com/rissamasghar)
 <!--
 **RissamAsghar/RissamAsghar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
