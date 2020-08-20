@@ -1,4 +1,11 @@
-### Hi there 👋
+### I am a Programmer and a Quick Learner!
+
+- 🔭 I’m currently working on firebase development in android.
+
+- 🔈 Part time freelancer
+
+- 📫 You can benefit from my services at [Fiverr](https://www.fiverr.com/share/9dKgod)
+
 
 <!--
 **RissamAsghar/RissamAsghar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
