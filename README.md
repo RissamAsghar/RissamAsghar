@@ -8,6 +8,8 @@
 <a href="https://www.facebook.com/rissam10/">
   <img align="left" alt="Rissam's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<img align="right" src="https://profile-counter.glitch.me/RissamAsghar/count.svg" />
+
 <br /><br />
 
 ## I am a Programmer and a Quick Learner!
