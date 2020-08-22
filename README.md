@@ -25,8 +25,8 @@
 
 - 📫 You can benefit from my services at [Fiverr](https://www.fiverr.com/share/9dKgod)
 
-<br /><
-img src="https://github-readme-stats.vercel.app/api?username=RissamAsghar&show_icons=true&hide_border=true&theme=vue" alt="Huzaifa Irfan's GitHub Stats" align="right">
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=RissamAsghar&show_icons=true&hide_border=true&theme=vue" alt="Rissam Asghar's GitHub Stats" align="right">
 
 ## Get In Touch
 
