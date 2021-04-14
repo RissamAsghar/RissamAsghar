@@ -24,8 +24,8 @@
 - 🔈 Part time freelancer
 
 - 📫 You can benefit from my services at <br>
-       - [Fiverr](https://www.fiverr.com/share/9dKgod)<br>
-       - [Upwork](https://www.upwork.com/freelancers/~0149868cf2ba03025a)
+    - [Fiverr](https://www.fiverr.com/share/9dKgod)<br>
+    - [Upwork](https://www.upwork.com/freelancers/~0149868cf2ba03025a)
                     
           
   
