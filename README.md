@@ -23,7 +23,12 @@
 
 - 🔈 Part time freelancer
 
-- 📫 You can benefit from my services at [Fiverr](https://www.fiverr.com/share/9dKgod)
+- 📫 You can benefit from my services at <br>
+       - [Fiverr](https://www.fiverr.com/share/9dKgod)<br>
+       - [Upwork](https://www.upwork.com/freelancers/~0149868cf2ba03025a)
+                    
+          
+  
 
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=RissamAsghar&show_icons=true&hide_border=true&theme=vue" alt="Rissam Asghar's GitHub Stats" align="right">
